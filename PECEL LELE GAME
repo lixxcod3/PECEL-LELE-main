@@ -1,0 +1,47 @@
+<h5p>
+    <h5p-memory-game>
+        <h5p-settings>
+            <background-image>url('YOUR_OCEAN_BACKGROUND_URL')</background-image>
+            <grid-size>3x3</grid-size>
+            <cards>
+                <card>
+                    <front>Crab 1</front>
+                    <back>url('YOUR_OCEAN_BACK_CARD_IMAGE_URL')</back>
+                </card>
+                <card>
+                    <front>Crab 2</front>
+                    <back>url('YOUR_OCEAN_BACK_CARD_IMAGE_URL')</back>
+                </card>
+                <card>
+                    <front>Crab 3</front>
+                    <back>url('YOUR_OCEAN_BACK_CARD_IMAGE_URL')</back>
+                </card>
+                <card>
+                    <front>Crab 1</front>
+                    <back>url('YOUR_OCEAN_BACK_CARD_IMAGE_URL')</back>
+                </card>
+                <card>
+                    <front>Crab 2</front>
+                    <back>url('YOUR_OCEAN_BACK_CARD_IMAGE_URL')</back>
+                </card>
+                <card>
+                    <front>Crab 3</front>
+                    <back>url('YOUR_OCEAN_BACK_CARD_IMAGE_URL')</back>
+                </card>
+                <card>
+                    <front>Crab 1</front>
+                    <back>url('YOUR_OCEAN_BACK_CARD_IMAGE_URL')</back>
+                </card>
+                <card>
+                    <front>Crab 2</front>
+                    <back>url('YOUR_OCEAN_BACK_CARD_IMAGE_URL')</back>
+                </card>
+                <card>
+                    <front>Crab 3</front>
+                    <back>url('YOUR_OCEAN_BACK_CARD_IMAGE_URL')</back>
+                </card>
+            </cards>
+            <flipping-delay>2</flipping-delay> <!-- Delay in seconds before cards flip back -->
+        </h5p-settings>
+    </h5p-memory-game>
+</h5p>
